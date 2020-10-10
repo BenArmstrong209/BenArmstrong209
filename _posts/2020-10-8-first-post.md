@@ -3,6 +3,6 @@ layout: post
 title: First Post
 ---
 
-This is my **first post**.
+Hey everyone look at this **post**!!! 
 
 [Here's a website I like](http://seriouseats.com)
