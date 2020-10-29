@@ -1,5 +1,6 @@
 .nav-content {
   display: flex;
+  width: 25%;
 }
 
 .nav-links {
