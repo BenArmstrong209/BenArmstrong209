@@ -11,8 +11,10 @@
 body {
   background-image: url("/Deep-Dish-Pizzazz/assets/images/redcurtainstage.jpg");
     background-size: cover;
+  font-family: 'Domine', serif;
 }
 
 header {
   color: #FFFFFF;
+  font-family: 'Balsamiq Sans', cursive;
   )
