@@ -11,6 +11,7 @@
 body {
   background-image: url("/Deep-Dish-Pizzazz/assets/images/comedystagebg.jpg");
     background-size: cover;
+  background-attachment: fixed;
 }
 
 markdown-body {
