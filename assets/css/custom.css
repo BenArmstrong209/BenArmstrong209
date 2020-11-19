@@ -18,6 +18,10 @@ markdown-body {
    font-family: 'Domine', serif;
 }
 
+title {
+  color:#FFFFFFF
+}
+
 header {
   color: #000000;
   font-family: 'Balsamiq Sans', cursive;
