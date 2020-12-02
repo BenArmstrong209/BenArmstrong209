@@ -25,5 +25,11 @@ markdown-body {
 header {
   color: #000000;
   font-family: 'Balsamiq Sans', cursive;
-  )
+}
 
+.ddplogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
