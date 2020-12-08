@@ -42,4 +42,9 @@ header {
 
 .teamportrait {
   float: left;
+  margin-right: 20px;
+}
+
+h3 {
+  clear: left;
 }
