@@ -15,6 +15,10 @@ body {
   background-attachment: fixed;
 }
 
+.wrapper {
+  width: 725px;
+}
+
 markdown-body {
    font-family: 'Domine', serif;
 }
