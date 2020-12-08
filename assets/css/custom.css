@@ -39,3 +39,7 @@ header {
   margin-left: auto;
   margin-right: auto;
 }
+
+.teamportrait {
+  float: left;
+}
